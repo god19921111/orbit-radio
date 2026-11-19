@@ -15,3 +15,6 @@ V2.5 — initial source migration.
 - Audio streams are played directly from their providers.
 - Browser/network restrictions or station availability may affect playback.
 - This repository contains the front-end source; it is not yet a production deployment.
+
+
+Deployment: GitHub Pages via GitHub Actions.
